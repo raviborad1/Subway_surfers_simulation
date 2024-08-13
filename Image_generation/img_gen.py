@@ -54,18 +54,6 @@ output_folder_nothing = 'C:\\Users\\ravib\\Downloads\\Nothing'
 
 
 extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=9, end_time=11)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=20, end_time=21)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=23, end_time=25)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=35, end_time=37)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=51, end_time=53)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=62, end_time=64)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=68, end_time=69)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=72, end_time=80)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=90, end_time=91)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=95, end_time=96)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=98, end_time=99)
-extract_frames_per_second(video_path, output_folder_nothing, target_fps=10, start_time=102, end_time=103)
-
 
 
 
